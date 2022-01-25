@@ -1,2 +1,2 @@
 # eye-exercise
-A javascript exercise in the MIT Pro Full-Stack Software Engineer course.
+This is a javascript exercise I performed in the MIT Pro Full-Stack Software Engineer course.
